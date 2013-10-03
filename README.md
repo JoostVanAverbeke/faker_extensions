@@ -4,7 +4,7 @@ faker_extensions
 ## Installation:
 Add the following to your Gemfile
 
-gem "faker", "~> 1.2.0"
+gem "faker", "~> 1.2.0"  
 gem 'faker_extensions', github: 'JoostVanAverbeke/faker_extensions'
 
 You definitly need the 'faker' gem, because the faker_extensions gem reopens the Faker module and adds functionality
